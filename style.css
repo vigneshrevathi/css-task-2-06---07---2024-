@@ -1,23 +1,23 @@
+.background-image{
+    background-image: url(backgroud.jpg);
+    height: 730px;
+    background-position: center;
+    background-size: cover;
+    
+}
 .content-wrapper{
     display: flex;
     text-transform: uppercase;
-    height: 700px;
-    background-image: url(backgroud.jpg);
-    background-position: center;
-    color: white;
     line-height: normal;
+    color: white;
     
 } 
-
-
 .first-part{
     width: 40%;
     display: flex;
     margin-top: 30px;
     margin-left: 70px;
-    font-size: 30px;
-    
-
+    font-size: 30px;  
 }
 .second-part{
     width: 60%;
@@ -25,6 +25,33 @@
     gap: 42px;
     margin-top: 30px;
     margin-left: 350px;
+}
+.lower-part{
+    text-align: center;
+    margin-top: 230px;
+    color: white;
+}
+#lorem-part{
+    margin-top: 30px;
+}
+#button-part{
+    margin-top: 30px;
+    padding-left: 30px;
+    padding-right: 45px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+    color: white;
+    background-image: url(web\ model\ 11-20.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 50px;
+    background-color: aqua;
+}
+#title-text{
+    font-size: 40px;
+    text-transform: uppercase;
+    
 }
 .second-section{
     text-align: center;
@@ -185,7 +212,6 @@
     background-image: url(web\ model\ 11-02.jpg);
     background-position: center;
     background-size: cover;
-
 }
 #gallery-2{
     width: 300px;
@@ -196,7 +222,7 @@
 }
 #gallery-3{
     width: 300px;
-     height: 350px;
+    height: 350px;
     background-image: url(web\ model\ 11-04.jpg);
     background-position: center;
     background-size: cover;
@@ -207,6 +233,154 @@
     background-image: url(web\ model\ 11-05.jpg);
     background-position: center;
     background-size: cover;
+}
+.icon-gallery{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    margin-top: 170px;
+}
+#facebook-icon{
+    width: 40px;
+    height: 40px;
+    background-color: yellowgreen;
+    background-image: url(facebook-icon.png);
+    background-position: center;
+    background-size: 68px;
+}
+#twitter-icon{
+    width: 40px;
+    height: 40px;
+    background-color: yellowgreen;
+    background-image: url(twitter-icon.png);
+    background-position: center;
+    background-size: 68px;
+}#google-icon{
+    width: 40px;
+    height: 40px;
+    background-color: yellowgreen;
+    background-image: url(google+.png);
+    background-position: center;
+    background-size: 68px;
+}#linkedin-icon{
+    width: 40px;
+    height: 40px;
+    background-color: yellowgreen;
+    background-image: url(linkedIn.png);
+    background-position: center;
+    background-size: 68px;
+}
+.icon-gallery2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    margin-top: 170px;
+}
+#facebook-icon2{
+    width: 40px;
+    height: 40px;
+    background-color: yellowgreen;
+    background-image: url(facebook-icon.png);
+    background-position: center;
+    background-size: 68px;
+}
+#twitter-icon2{
+    width: 40px;
+    height: 40px;
+    background-color: yellowgreen;
+    background-image: url(twitter-icon.png);
+    background-position: center;
+    background-size: 68px;
+}#google-icon2{
+    width: 40px;
+    height: 40px;
+    background-color: yellowgreen;
+    background-image: url(google+.png);
+    background-position: center;
+    background-size: 68px;
+}#linkedin-icon2{
+    width: 40px;
+    height: 40px;
+    background-color: yellowgreen;
+    background-image: url(linkedIn.png);
+    background-position: center;
+    background-size: 68px;
+}
+.icon-gallery3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    margin-top: 170px;
+}
+#facebook-icon3{
+    width: 40px;
+    height: 40px;
+    background-color: yellowgreen;
+    background-image: url(facebook-icon.png);
+    background-position: center;
+    background-size: 68px;
+}
+#twitter-icon3{
+    width: 40px;
+    height: 40px;
+    background-color: yellowgreen;
+    background-image: url(twitter-icon.png);
+    background-position: center;
+    background-size: 68px;
+}#google-icon3{
+    width: 40px;
+    height: 40px;
+    background-color: yellowgreen;
+    background-image: url(google+.png);
+    background-position: center;
+    background-size: 68px;
+}#linkedin-icon3{
+    width: 40px;
+    height: 40px;
+    background-color: yellowgreen;
+    background-image: url(linkedIn.png);
+    background-position: center;
+    background-size: 68px;
+}
+.icon-gallery4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    margin-top: 170px;
+}
+#facebook-icon4{
+    width: 40px;
+    height: 40px;
+    background-color: yellowgreen;
+    background-image: url(facebook-icon.png);
+    background-position: center;
+    background-size: 68px;
+}
+#twitter-icon4{
+    width: 40px;
+    height: 40px;
+    background-color: yellowgreen;
+    background-image: url(twitter-icon.png);
+    background-position: center;
+    background-size: 68px;
+}#google-icon4{
+    width: 40px;
+    height: 40px;
+    background-color: yellowgreen;
+    background-image: url(google+.png);
+    background-position: center;
+    background-size: 68px;
+}#linkedin-icon4{
+    width: 40px;
+    height: 40px;
+    background-color: yellowgreen;
+    background-image: url(linkedIn.png);
+    background-position: center;
+    background-size: 68px;
 }
 .text-content{
     display: flex;
